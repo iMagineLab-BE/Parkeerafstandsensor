@@ -1,0 +1,11 @@
+* RCWL-0516
+* lipo 6600mah battery
+* switch
+* car charger 5V usb
+* Lipo Charger v1.0 (modified to disable the step up)
+* Relay module (to turn of light supply)
+* Usb breakout + ldo 3.6V board
+* Micro usb cable
+* Mini usb cable
+* ESP32
+* leds VMW104
